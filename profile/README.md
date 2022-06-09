@@ -140,7 +140,7 @@ Face Your Pace 는 달리기를 하는 사람들의 페이스 조절에 도움�
 
 ### 👨‍👩‍👦‍👦 팀원 소개
 
-|[김의찬](https://github.com/kuc00000)|[김휘경](https://github.com/hwikyungkim-1215)|[윤다인](https://github.com/yoondain)|1
+|[김의찬](https://github.com/kuc00000)|[김휘경](https://github.com/hwikyungkim-1215)|[윤다인](https://github.com/yoondain)|
 |:---:|:---:|:---:|
 |프론트 개발|서버 개발|기능 개발|
 |React Native<br/>로그인/회원가입 UI<br/>음악 추가 및 재생 UI<br/>플레이리스트 UI, BPM 추천 UI|Spring<br/>DB설계, 회원관리 기능<br/>음악 저장 기능, 플레이리스트 기능<br/>파이썬 연동, 서버 배포|Python<br/>사운드클라우드 URL을 통한 음원 다운 기능<br/>설정값에 따른 음원 추출 기능<br/>BPM 추천 기능|
