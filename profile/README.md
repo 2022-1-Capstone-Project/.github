@@ -26,7 +26,10 @@ Face Your Pace 는 달리기를 하는 사람들의 페이스 조절에 도움�
 
 <img width="903" alt="fyp표지" src="https://user-images.githubusercontent.com/56347876/172767446-63bf4b84-1afb-46c9-a566-b06c883bd899.png">
 
+
 소개 및 데모 영상: https://www.youtube.com/watch?v=BbRuUzSmnZ0&ab_channel=%EA%B9%80%EC%9D%98%EC%B0%AC
+
+
 ### 🌞 프로젝트 동기
 
   스포츠 심리학 저널에 게재된 영국의 브루넬 대학교(Brunel University) 스포츠 교육학과 코스타스 카라게오그리스(Costas Karageorghis) 박사의 연구 결과에 따르면, 음악을 들으면서 운동하면 평소보다 15% 정도 더 오래 운동을 지속할 수 있다고 한다. 또한 운동할 때 음악을 적절하게 선택하면 신진대사, 근력, 호흡, 심박수 및 혈압 등에 영향을 주며 근육의 반사작용을 일으키게 하여 피로를 잊게 만들어주는 등 운동효과를 높여 준다.
