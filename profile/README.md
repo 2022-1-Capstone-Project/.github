@@ -94,17 +94,22 @@ Face Your Pace 는 달리기를 하는 사람들의 페이스 조절에 도움�
 <img width="706" alt="bpm" src="https://user-images.githubusercontent.com/56347876/172786045-e3067479-1407-4240-8ace-7257705b06ff.png">
 
 
-# ⏰ 개발 기간 (2022.02.27 ~ 2022.06.10)
+## ⏰ 개발 기간 (2022.02.27 ~ 2022.06.10)
 
 기획 : 2022.02.27 ~ 2022.03.09    
 개발 : 2022.03.10 ~ 2022.06.10
 
 
-# 🛠️ 백엔드 실행
+## 🛠️ 백엔드 실행
 
 > ./gradlew build   
 > cd build/libs   
-> javr -jar faceYourPace-0.0.1-SNAPSHOT.jar
+> java -jar faceYourPace-0.0.1-SNAPSHOT.jar
+
+
+## 🛠️ 어플 다운로드
+
+https://www.dropbox.com/s/gu7tqvh0xhyrcij/app-debug.apk?dl=0
 
 
 # 🏃 주요기능 소개
