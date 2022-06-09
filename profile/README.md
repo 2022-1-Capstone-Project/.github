@@ -16,6 +16,7 @@
 [💻 2022 캡스톤 디자인 경진대회 설명페이지](https://www.swaicau.com/bbs/board.php?bo_table=program8)
 
 본 프로젝트는 2022 캡스톤 디자인 경진대회에 참여하는 프로젝트임을 밝힙니다.
+
 2022 캡스톤 디자인 경진대회 참여 링크 : https://www.swaicau.com/bbs/board.php?bo_table=program8&wr_id=136
 
 
