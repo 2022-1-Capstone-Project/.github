@@ -18,6 +18,7 @@
 본 프로젝트는 2022 캡스톤 디자인 경진대회에 참여하는 프로젝트임을 밝힙니다.
 2022 캡스톤 디자인 경진대회 참여 링크 : https://www.swaicau.com/bbs/board.php?bo_table=program8&wr_id=136
 
+
 # 🏃 서비스 소개
 
 페이스 조절을 통해 운동 효율을 높여요!
@@ -92,24 +93,56 @@ Face Your Pace 는 달리기를 하는 사람들의 페이스 조절에 도움�
 기획 : 2022.01.21 ~ 2022.01.28    
 개발 : 2022.01.28 ~ 2022.02.05
 
+
 # 🛠️ 백엔드 실행
 
 > ./gradlew build   
 > cd build/libs   
 > javr -jar faceYourPace-0.0.1-SNAPSHOT.jar
 
+
+# 🏃 주요기능 소개
+
+### 1️⃣ 로그인, 회원가입
+
+<img width="1617" alt="1 로그인'" src="https://user-images.githubusercontent.com/56347876/172768562-01e41f7d-5760-4100-9453-a981fe719d9d.png">
+<img width="1629" alt="2 회원가입" src="https://user-images.githubusercontent.com/56347876/172768607-7948eadc-d902-42ff-b9ed-5fb5a09bb97d.png">
+<img width="1162" alt="회원가입222" src="https://user-images.githubusercontent.com/56347876/172796209-2a3881e9-3a88-45e1-807c-5181050db57c.png">
+
+### 2️⃣ 메인 홈, 음악 추가
+
+
+<img width="1629" alt="4 홈" src="https://user-images.githubusercontent.com/56347876/172769095-028714d1-69a3-401d-8c38-1607953fca45.png">
+<img width="1175" alt="홈화면22" src="https://user-images.githubusercontent.com/56347876/172795998-5e32f277-ab34-4160-8204-26d456086827.png">
+<img width="1629" alt="5 음악추가" src="https://user-images.githubusercontent.com/56347876/172769111-ec819169-251d-468e-a9fe-3887f4911e4b.png">
+
+
+ ### 3️⃣ 플레이리스트, 스트리밍
+
+<img width="1167" alt="플리음악목록" src="https://user-images.githubusercontent.com/56347876/172795931-7a46665a-00c8-4e57-8ee8-5520189dc67a.png">
+<img width="1164" alt="플리음악추가" src="https://user-images.githubusercontent.com/56347876/172795963-a13d6126-7482-46c4-8555-0549eed68f29.png">
+<img width="1625" alt="8 스트리밍" src="https://user-images.githubusercontent.com/56347876/172769363-6866e0f8-379a-4890-8f9d-ebcab4852cf2.png">
+
+
+ ### 4️⃣ 음악 설정값 수정(config)
+
+
 <img width="1631" alt="7 컨픽" src="https://user-images.githubusercontent.com/56347876/172769348-61f39d46-151a-42e1-8dac-e45cdd7c6433.png">
+<img width="1631" alt="7 컨픽" src="https://user-images.githubusercontent.com/56347876/172769348-61f39d46-151a-42e1-8dac-e45cdd7c6433.png">
+<img width="1631" alt="7 컨픽" src="https://user-images.githubusercontent.com/56347876/172769348-61f39d46-151a-42e1-8dac-e45cdd7c6433.png">
+
 
  ### 5️⃣ 사용자 신체 조건에 적합한 BPM 추천
 
 <img width="1170" alt="bpm추천22" src="https://user-images.githubusercontent.com/56347876/172795882-4c704a9e-ff42-4744-8ae2-b2f0bf1f5ff7.png">
 
+
  ### 6️⃣ 사용자 정보 조회
 
 <img width="1627" alt="10 정보조회" src="https://user-images.githubusercontent.com/56347876/172769449-bd36373c-493a-4c9b-b719-54c8235f5df0.png">
 
-### 🛠️ 기술스택
 
+### 🛠️ 기술스택
 
 - ForntEnd   
    - React Native
@@ -124,6 +157,7 @@ Face Your Pace 는 달리기를 하는 사람들의 페이스 조절에 도움�
 - Function
     - Python
     - ffmpeg
+
 
 ### ✏️ 기획 및 설계
 
