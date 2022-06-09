@@ -1,4 +1,4 @@
-# Face Your Pace
+# Face Your Pace - 카우러너
 
 ### 목차
 
